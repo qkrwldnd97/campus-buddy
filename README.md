@@ -1,1 +1,2 @@
 # campus-buddy
+Time management and teamwork are two of the fundamental skills that all college students must become proficient with, but they can often come into conflict. Packed course loads, study time, and group meetings can be difficult to manage on the fly, and that’s why our personal calendar application will allow easy schedule comparison between students, clubs, and the university. Our app will make time management a breeze and include gamifying features that will encourage users to make time for personal enrichment and share that progress with their friends. 
